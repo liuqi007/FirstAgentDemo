@@ -1,0 +1,5 @@
+import os
+
+## 运行
+if __name__ == "__main__":
+    print("hello world python")
