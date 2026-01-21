@@ -1,0 +1,8 @@
+{
+	"mcpServers" : {
+		"hostInfoMcp" : {
+			"command" : "D:/setup/Python/Python311/python.exe",
+			"args" : ["D:/ai_workspace/FirstAgentDemo/FirstMcpDemo/main.py"]
+		}
+	}
+}
